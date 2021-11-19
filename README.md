@@ -7,7 +7,7 @@ You can [read the whole thesis](Resources/Master%20Thesis.pdf), available in Pol
 ![Mobile experience](Resources/demo-mobile.png)
 <p align="center">1. Mobile experience.</p>
 
-![Glasses experience](Resources/screenshot-glasses.png)
+![Glasses experience](Resources/screenshot-glasses-high-res.png)
 <p align="center">1. Google™ Cardboard experience.</p>
 
 ## Program of Study
